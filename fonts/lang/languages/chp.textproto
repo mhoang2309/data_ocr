@@ -1,0 +1,9 @@
+id: "chp"
+language: "chp"
+script: "Latn"
+name: "Chipewyan"
+population: 753
+region: "CA"
+sample_text {
+  fallback_language: "en"
+}

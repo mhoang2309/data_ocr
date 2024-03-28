@@ -1,0 +1,9 @@
+id: "sxn"
+language: "sxn"
+script: "Latn"
+name: "Sangir"
+population: 245663
+region: "ID"
+sample_text {
+  fallback_language: "en"
+}

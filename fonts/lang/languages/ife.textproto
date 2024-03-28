@@ -1,0 +1,9 @@
+id: "ife"
+language: "ife"
+script: "Latn"
+name: "Ifè"
+population: 111909
+region: "TG"
+sample_text {
+  fallback_language: "en"
+}

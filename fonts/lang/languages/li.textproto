@@ -1,0 +1,9 @@
+id: "li"
+language: "li"
+script: "Latn"
+name: "Limburgish"
+population: 950422
+region: "NL"
+sample_text {
+  fallback_language: "en"
+}

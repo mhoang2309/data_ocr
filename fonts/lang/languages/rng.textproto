@@ -1,0 +1,9 @@
+id: "rng"
+language: "rng"
+script: "Latn"
+name: "Ronga"
+population: 1023338
+region: "MZ"
+sample_text {
+  fallback_language: "en"
+}

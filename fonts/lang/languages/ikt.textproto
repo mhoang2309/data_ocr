@@ -1,0 +1,9 @@
+id: "ikt"
+language: "ikt"
+script: "Latn"
+name: "Inuinnaqtun"
+population: 4146
+region: "CA"
+sample_text {
+  fallback_language: "en"
+}

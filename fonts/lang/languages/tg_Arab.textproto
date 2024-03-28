@@ -1,0 +1,9 @@
+id: "tg_Arab"
+language: "tg"
+script: "Arab"
+name: "Tajik (Arabic)"
+population: 770553
+region: "PK"
+sample_text {
+  fallback_language: "ar"
+}

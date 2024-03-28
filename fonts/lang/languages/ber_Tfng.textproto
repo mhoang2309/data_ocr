@@ -1,0 +1,8 @@
+id: "ber_Tfng"
+language: "ber"
+script: "Tfng"
+name: "Berber, Tifinagh"
+region: "MA"
+sample_text {
+  fallback_language: "zgh"
+}

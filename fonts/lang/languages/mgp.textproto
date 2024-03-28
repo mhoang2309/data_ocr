@@ -1,0 +1,9 @@
+id: "mgp"
+language: "mgp"
+script: "Deva"
+name: "Eastern Magar"
+population: 333606
+region: "NP"
+sample_text {
+  fallback_language: "hi"
+}

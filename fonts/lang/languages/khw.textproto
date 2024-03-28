@@ -1,0 +1,9 @@
+id: "khw"
+language: "khw"
+script: "Arab"
+name: "Khowar"
+population: 350251
+region: "PK"
+sample_text {
+  fallback_language: "ar"
+}

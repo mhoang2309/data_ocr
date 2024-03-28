@@ -1,0 +1,9 @@
+id: "mak"
+language: "mak"
+script: "Latn"
+name: "Makasar"
+population: 1949289
+region: "ID"
+sample_text {
+  fallback_language: "en"
+}

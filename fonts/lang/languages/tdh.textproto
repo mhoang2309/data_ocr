@@ -1,0 +1,9 @@
+id: "tdh"
+language: "tdh"
+script: "Deva"
+name: "Thulung"
+population: 36393
+region: "NP"
+sample_text {
+  fallback_language: "hi"
+}

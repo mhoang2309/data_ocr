@@ -1,0 +1,10 @@
+id: "kpe"
+language: "kpe"
+script: "Latn"
+name: "Kpelle"
+population: 1186303
+region: "GN"
+region: "LR"
+sample_text {
+  fallback_language: "en"
+}

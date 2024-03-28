@@ -1,0 +1,9 @@
+id: "dtm"
+language: "dtm"
+script: "Latn"
+name: "Tomo Kan Dogon"
+population: 215087
+region: "ML"
+sample_text {
+  fallback_language: "en"
+}

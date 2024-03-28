@@ -1,0 +1,9 @@
+id: "wtm"
+language: "wtm"
+script: "Deva"
+name: "Mewati"
+population: 6100014
+region: "IN"
+sample_text {
+  fallback_language: "hi"
+}

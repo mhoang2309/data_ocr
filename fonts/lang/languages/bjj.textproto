@@ -1,0 +1,9 @@
+id: "bjj"
+language: "bjj"
+script: "Deva"
+name: "Kanauji"
+population: 7426104
+region: "IN"
+sample_text {
+  fallback_language: "hi"
+}

@@ -1,0 +1,9 @@
+id: "crl"
+language: "crl"
+script: "Cans"
+name: "Northern East Cree"
+population: 5277
+region: "CA"
+sample_text {
+  fallback_language: "iu"
+}

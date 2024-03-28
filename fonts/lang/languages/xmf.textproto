@@ -1,0 +1,9 @@
+id: "xmf"
+language: "xmf"
+script: "Geor"
+name: "Mingrelian"
+population: 439670
+region: "GE"
+sample_text {
+  fallback_language: "ka"
+}

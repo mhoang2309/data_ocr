@@ -1,0 +1,9 @@
+id: "kfy"
+language: "kfy"
+script: "Deva"
+name: "Kumaoni"
+population: 2917398
+region: "IN"
+sample_text {
+  fallback_language: "hi"
+}

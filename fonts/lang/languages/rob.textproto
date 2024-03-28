@@ -1,0 +1,9 @@
+id: "rob"
+language: "rob"
+script: "Latn"
+name: "Tae\'"
+population: 293728
+region: "ID"
+sample_text {
+  fallback_language: "en"
+}

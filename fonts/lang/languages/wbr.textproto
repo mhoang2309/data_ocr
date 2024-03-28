@@ -1,0 +1,9 @@
+id: "wbr"
+language: "wbr"
+script: "Deva"
+name: "Wagdi"
+population: 1989135
+region: "IN"
+sample_text {
+  fallback_language: "hi"
+}

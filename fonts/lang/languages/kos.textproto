@@ -1,0 +1,9 @@
+id: "kos"
+language: "kos"
+script: "Latn"
+name: "Kosraean"
+population: 7990
+region: "FM"
+sample_text {
+  fallback_language: "en"
+}

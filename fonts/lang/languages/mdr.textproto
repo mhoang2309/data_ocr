@@ -1,0 +1,9 @@
+id: "mdr"
+language: "mdr"
+script: "Latn"
+name: "Mandar"
+population: 245663
+region: "ID"
+sample_text {
+  fallback_language: "en"
+}

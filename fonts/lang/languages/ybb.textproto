@@ -1,0 +1,9 @@
+id: "ybb"
+language: "ybb"
+script: "Latn"
+name: "Yemba"
+population: 443920
+region: "CM"
+sample_text {
+  fallback_language: "en"
+}

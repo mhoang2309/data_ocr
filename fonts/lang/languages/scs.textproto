@@ -1,0 +1,9 @@
+id: "scs"
+language: "scs"
+script: "Latn"
+name: "North Slavey"
+population: 1243
+region: "CA"
+sample_text {
+  fallback_language: "en"
+}

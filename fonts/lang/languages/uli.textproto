@@ -1,0 +1,9 @@
+id: "uli"
+language: "uli"
+script: "Latn"
+name: "Ulithian"
+population: 2970
+region: "FM"
+sample_text {
+  fallback_language: "en"
+}

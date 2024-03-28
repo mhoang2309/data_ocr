@@ -1,0 +1,9 @@
+id: "noe"
+language: "noe"
+script: "Deva"
+name: "Nimadi"
+population: 1723917
+region: "IN"
+sample_text {
+  fallback_language: "hi"
+}

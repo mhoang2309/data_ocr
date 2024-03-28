@@ -1,0 +1,9 @@
+id: "mxc"
+language: "mxc"
+script: "Latn"
+name: "Manyika"
+population: 945509
+region: "ZW"
+sample_text {
+  fallback_language: "en"
+}

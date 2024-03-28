@@ -1,0 +1,9 @@
+id: "bej"
+language: "bej"
+script: "Arab"
+name: "Beja"
+population: 2460326
+region: "SD"
+sample_text {
+  fallback_language: "ar"
+}

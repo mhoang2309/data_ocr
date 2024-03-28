@@ -1,0 +1,9 @@
+id: "frs"
+language: "frs"
+script: "Latn"
+name: "Eastern Frisian"
+population: 2003
+region: "DE"
+sample_text {
+  fallback_language: "en"
+}

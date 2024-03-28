@@ -1,0 +1,9 @@
+id: "nhw"
+language: "nhw"
+script: "Latn"
+name: "Western Huasteca Nahuatl"
+population: 501735
+region: "MX"
+sample_text {
+  fallback_language: "en"
+}

@@ -1,0 +1,9 @@
+id: "crk"
+language: "crk"
+script: "Cans"
+name: "Plains Cree"
+population: 41463
+region: "CA"
+sample_text {
+  fallback_language: "iu"
+}

@@ -1,0 +1,9 @@
+id: "bbj"
+language: "bbj"
+script: "Latn"
+name: "Ghomala"
+population: 388430
+region: "CM"
+sample_text {
+  fallback_language: "en"
+}

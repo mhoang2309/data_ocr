@@ -1,0 +1,9 @@
+id: "mrd"
+language: "mrd"
+script: "Deva"
+name: "Western Magar"
+population: 251721
+region: "NP"
+sample_text {
+  fallback_language: "hi"
+}

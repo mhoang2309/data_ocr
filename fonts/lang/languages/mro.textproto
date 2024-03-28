@@ -1,0 +1,9 @@
+id: "mro"
+language: "mro"
+script: "Latn"
+name: "Mru"
+population: 29277
+region: "BD"
+sample_text {
+  fallback_language: "en"
+}

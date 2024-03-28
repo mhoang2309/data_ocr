@@ -1,0 +1,9 @@
+id: "ik"
+language: "ik"
+script: "Latn"
+name: "Inupiaq"
+population: 7983
+region: "US"
+sample_text {
+  fallback_language: "en"
+}

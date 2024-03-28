@@ -1,0 +1,9 @@
+id: "fvr"
+language: "fvr"
+script: "Latn"
+name: "Fur"
+population: 1230163
+region: "SD"
+sample_text {
+  fallback_language: "en"
+}

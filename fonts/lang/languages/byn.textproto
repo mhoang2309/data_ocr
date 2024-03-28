@@ -1,0 +1,9 @@
+id: "byn"
+language: "byn"
+script: "Ethi"
+name: "Blin"
+population: 79055
+region: "ER"
+sample_text {
+  fallback_language: "am"
+}

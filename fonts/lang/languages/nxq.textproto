@@ -1,0 +1,9 @@
+id: "nxq"
+language: "nxq"
+script: "Latn"
+name: "Naxi"
+population: 334564
+region: "CN"
+sample_text {
+  fallback_language: "en"
+}

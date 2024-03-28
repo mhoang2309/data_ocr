@@ -1,0 +1,9 @@
+id: "izh"
+language: "izh"
+script: "Latn"
+name: "Ingrian"
+population: 141
+region: "RU"
+sample_text {
+  fallback_language: "en"
+}

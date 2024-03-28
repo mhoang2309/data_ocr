@@ -1,0 +1,9 @@
+id: "aro"
+language: "aro"
+script: "Latn"
+name: "Araona"
+population: 104
+region: "BO"
+sample_text {
+  fallback_language: "en"
+}

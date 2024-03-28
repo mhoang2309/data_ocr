@@ -1,0 +1,9 @@
+id: "swv"
+language: "swv"
+script: "Deva"
+name: "Shekhawati"
+population: 3713052
+region: "IN"
+sample_text {
+  fallback_language: "hi"
+}

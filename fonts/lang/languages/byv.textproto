@@ -1,0 +1,9 @@
+id: "byv"
+language: "byv"
+script: "Latn"
+name: "Medumba"
+population: 305195
+region: "CM"
+sample_text {
+  fallback_language: "en"
+}

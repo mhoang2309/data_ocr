@@ -1,0 +1,9 @@
+id: "fan"
+language: "fan"
+script: "Latn"
+name: "Fang"
+population: 426450
+region: "GQ"
+sample_text {
+  fallback_language: "en"
+}

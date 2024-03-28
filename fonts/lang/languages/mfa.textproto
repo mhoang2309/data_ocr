@@ -1,0 +1,9 @@
+id: "mfa"
+language: "mfa"
+script: "Arab"
+name: "Pattani Malay"
+population: 3448870
+region: "TH"
+sample_text {
+  fallback_language: "ar"
+}

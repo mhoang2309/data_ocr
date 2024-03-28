@@ -1,0 +1,10 @@
+id: "btv"
+language: "btv"
+script: "Deva"
+name: "Bateri"
+population: 78843
+region: "IN"
+region: "PK"
+sample_text {
+  fallback_language: "hi"
+}

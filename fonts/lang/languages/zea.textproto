@@ -1,0 +1,9 @@
+id: "zea"
+language: "zea"
+script: "Latn"
+name: "Zeelandic"
+population: 241925
+region: "NL"
+sample_text {
+  fallback_language: "en"
+}

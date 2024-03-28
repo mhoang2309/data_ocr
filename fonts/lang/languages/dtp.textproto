@@ -1,0 +1,9 @@
+id: "dtp"
+language: "dtp"
+script: "Latn"
+name: "Central Dusun"
+population: 182851
+region: "MY"
+sample_text {
+  fallback_language: "en"
+}

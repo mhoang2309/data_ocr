@@ -1,0 +1,9 @@
+id: "thq"
+language: "thq"
+script: "Deva"
+name: "Kochila Tharu"
+population: 303279
+region: "NP"
+sample_text {
+  fallback_language: "hi"
+}

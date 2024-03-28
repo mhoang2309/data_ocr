@@ -1,0 +1,9 @@
+id: "atj"
+language: "atj"
+script: "Latn"
+name: "Atikamekw"
+population: 5654
+region: "CA"
+sample_text {
+  fallback_language: "en"
+}

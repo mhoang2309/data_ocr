@@ -1,0 +1,9 @@
+id: "mtr"
+language: "mtr"
+script: "Deva"
+name: "Mewari"
+population: 1286307
+region: "IN"
+sample_text {
+  fallback_language: "hi"
+}

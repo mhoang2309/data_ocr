@@ -1,0 +1,9 @@
+id: "wni"
+language: "wni"
+script: "Arab"
+name: "Ndzwani Comorian"
+population: 287735
+region: "KM"
+sample_text {
+  fallback_language: "ar"
+}

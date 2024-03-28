@@ -1,0 +1,12 @@
+id: "za_Hans"
+language: "za"
+script: "Hans"
+name: "Zhuang, Simplified Han"
+population: 0
+region: "CN"
+region: "MN"
+region: "MY"
+region: "SG"
+sample_text {
+  fallback_language: "zh"
+}

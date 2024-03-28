@@ -1,0 +1,10 @@
+id: "bjn"
+language: "bjn"
+script: "Latn"
+name: "Banjar"
+population: 4010287
+region: "ID"
+region: "MY"
+sample_text {
+  fallback_language: "en"
+}

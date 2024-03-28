@@ -1,0 +1,9 @@
+id: "tbw"
+language: "tbw"
+script: "Latn"
+name: "Tagbanwa"
+population: 10044
+region: "PH"
+sample_text {
+  fallback_language: "en"
+}

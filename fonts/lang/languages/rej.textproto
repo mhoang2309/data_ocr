@@ -1,0 +1,9 @@
+id: "rej"
+language: "rej"
+script: "Latn"
+name: "Rejang"
+population: 1228319
+region: "ID"
+sample_text {
+  fallback_language: "en"
+}

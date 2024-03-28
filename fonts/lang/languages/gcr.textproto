@@ -1,0 +1,9 @@
+id: "gcr"
+language: "gcr"
+script: "Latn"
+name: "Guianese Creole French"
+population: 51872
+region: "GF"
+sample_text {
+  fallback_language: "en"
+}

@@ -1,0 +1,9 @@
+id: "pfl"
+language: "pfl"
+script: "Latn"
+name: "Palatine German"
+population: 0
+region: "DE"
+sample_text {
+  fallback_language: "en"
+}

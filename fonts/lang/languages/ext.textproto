@@ -1,0 +1,9 @@
+id: "ext"
+language: "ext"
+script: "Latn"
+name: "Extremaduran"
+population: 245077
+region: "ES"
+sample_text {
+  fallback_language: "en"
+}

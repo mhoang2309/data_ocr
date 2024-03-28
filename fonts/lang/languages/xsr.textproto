@@ -1,0 +1,9 @@
+id: "xsr"
+language: "xsr"
+script: "Deva"
+name: "Sherpa"
+population: 157705
+region: "NP"
+sample_text {
+  fallback_language: "hi"
+}

@@ -1,0 +1,9 @@
+id: "wal"
+language: "wal"
+script: "Ethi"
+name: "Wolaytta"
+population: 1946034
+region: "ET"
+sample_text {
+  fallback_language: "am"
+}

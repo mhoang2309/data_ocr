@@ -1,0 +1,9 @@
+id: "hnd"
+language: "hnd"
+script: "Arab"
+name: "Southern Hindko"
+population: 957354
+region: "PK"
+sample_text {
+  fallback_language: "ar"
+}

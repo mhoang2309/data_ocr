@@ -1,0 +1,9 @@
+id: "aeb"
+language: "aeb"
+script: "Arab"
+name: "Tunisian Arabic"
+population: 10549080
+region: "TN"
+sample_text {
+  fallback_language: "ar"
+}

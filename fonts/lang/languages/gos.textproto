@@ -1,0 +1,9 @@
+id: "gos"
+language: "gos"
+script: "Latn"
+name: "Gronings"
+population: 622094
+region: "NL"
+sample_text {
+  fallback_language: "en"
+}
